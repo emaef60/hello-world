@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First trial repository
+First trial repository to test the GitHub environment.
